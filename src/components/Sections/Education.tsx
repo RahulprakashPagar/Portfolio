@@ -32,8 +32,7 @@ export default function Education() {
             <div className={s.eduDeg}>Bachelor of Engineering</div>
             <div className={s.eduInst}>Savitribai Phule Pune University</div>
             <div className={s.eduYr}>Jun 2011 – Jun 2015 · Pune, India</div>
-            <span className={s.eduGrade}>First Class Honours</span>
-            <div className={s.eduModules}>Core engineering fundamentals with strong mathematics, statistics, and systems design foundation — underpinning all subsequent analytical and ML work.</div>
+            <span className={s.eduGrade}>First Class with Distinction</span>
           </div>
         </div>
 
